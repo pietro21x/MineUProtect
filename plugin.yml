@@ -1,0 +1,9 @@
+name: MineUProtect
+version: 1.0.0
+author: Aenteritas
+api: 3.0.0
+main: MineUProtect\MineUProtect
+description: Save your worlds.
+commands:
+    world:
+        description: Main command
